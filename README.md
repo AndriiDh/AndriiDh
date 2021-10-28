@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AndriiDh
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java
+- 📫 How to reach me andrii.dudash@gmail.com
